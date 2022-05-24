@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'NetflixSansRegular';
+    src: url("@/assets/NetflixSansRegular.ttf");
+    font-weight: normal;
+}
+@font-face {
+    font-family: 'NetflixSansBold';
+    src: url("@/assets/NetflixSansBold.ttf");
+    font-weight: normal;
+}
+@font-face {
+    font-family: 'NetflixSansLight';
+    src: url("@/assets/NetflixSansLight.ttf");
+    font-weight: normal;
+}
+:root{
+    --dark-transparent-color: rgba(0, 0, 0, 0.8);
+    --background-field-color: #333;
+    --placeholder-field-color: #b3b3b3;
+    --background-btn-color: #FF2468;
+    --background-banner: rgb(17, 16, 16);
+}
+
